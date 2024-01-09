@@ -10,7 +10,7 @@ function TareaFormulario(props) {
         placeholder='Escribe una Tarea'
         name='texto'
       />
-      <button className='tarea-boton'>Agregar Tarea</button>
+      <button className='tarea-boton'>Agregar tarea</button>
     </form>
   );
 }
